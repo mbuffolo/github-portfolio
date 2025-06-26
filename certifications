@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Projects - My Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Your Name</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="projects.html">Projects</a>
+      <a href="certifications.html">Certifications</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Certifications Showcase</h2>
+
+    <article>
+      <h3>NIST CSF Risk Mapping</h3>
+      <p>Mapped HSE weaknesses to NIST CSF 2.0 using a risk-based approach. Written report format.</p>
+    </article>
+
+    <article>
+      <h3>ISO 27001 Policy Alignment</h3>
+      <p>Reviewed a policy document and mapped controls against ISO/IEC 27001 Annex A.</p>
+    </article>
+
+  </main>
+
+  <footer>
+    <p>© 2025 Your Name</p>
+  </footer>
+</body>
+</html>
