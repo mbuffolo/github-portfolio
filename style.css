@@ -38,3 +38,8 @@ footer {
   font-size: 0.9rem;
   background: #eee;
 }
+
+main, article, p, h3 {
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
