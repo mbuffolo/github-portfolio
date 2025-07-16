@@ -1,4 +1,7 @@
-# 🌐 Cybersecurity & GRC Portfolio - [Your Name]
+# 🌐 Cybersecurity & GRC Portfolio - [Moreno Buffolo]
+
+## 🔗 Connect
+- [LinkedIn](https://www.linkedin.com/in/morenobuffolo)
 
 ## 🛡️ Certifications and Education
 - M.Sc. in Electrical Engineering at University of Trieste
@@ -19,6 +22,5 @@ For each identified weakness, appropriate security and privacy controls were map
 - Link: [View Review of PwC Report about Conti cyber attack on the HSE using NIST CSF 2.0](./docs/Analysis%20on%202021%20PwC%20Report%20about%20Conti%20Cyber%20attack%20on%20HSE.pdf)
 - Link: [View PwC Report - Conti cyber attack on HSE](https://www.hse.ie/eng/services/publications/conti-cyber-attack-on-the-hse-full-report.pdf)
 
-## 🔗 Connect
-- [LinkedIn](https://www.linkedin.com/in/morenobuffolo)
+
 
