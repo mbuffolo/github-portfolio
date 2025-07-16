@@ -13,7 +13,7 @@
 
 ## 📂 Featured Projects
 
-### 📝 Review of PwC Report about Conti cyber attack on the HSE using NIST CSF 2.0
+### 📝 Review of the 2021 PwC Report on the Conti Cyberattack Against the HSE Using the NIST Cybersecurity Framework 2.0
 - Scope: 
 This review provides an analysis of the 2021 PwC report detailing the Conti ransomware attack on the Irish Health Service Executive (HSE). It identifies one significant weakness or risk for each of the six functions of the NIST Cybersecurity Framework (CSF) 2.0 - Identify, Protect, Detect, Respond, Recover and Govern.
 
